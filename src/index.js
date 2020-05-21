@@ -1,7 +1,7 @@
 import React, {useState} from 'react';
 import {StyleSheet, View, Text, TextInput} from 'react-native';
 
-import {Button} from 'react-native-paper';
+import {Button} from 'react-native-paper'; // teste
 
 const App = () => {
   const [imc, setImc] = useState('0');
