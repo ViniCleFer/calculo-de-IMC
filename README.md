@@ -12,5 +12,4 @@ https://github.com/ViniCleFer/calculo-de-IMC.git
 2- ``` react-native run-android ```
 
 ![screenshot1](https://github.com/ViniCleFer/calculo-de-IMC/blob/master/src/assets/1.png)
-
 ![screenshot2](https://github.com/ViniCleFer/calculo-de-IMC/blob/master/src/assets/2.png)
