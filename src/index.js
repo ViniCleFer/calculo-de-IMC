@@ -159,6 +159,7 @@ const styles = StyleSheet.create({
     right: 0,
     marginTop: -10,
     fontSize: 15,
+    backgroundColor: 'transparent',
   },
   btnzrtext: {
     fontSize: 14,
